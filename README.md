@@ -18,15 +18,15 @@ A primeira fase você concluiu com 100% de aproveitamento, isso é excelente, ag
 
 No repositório challenge-nodejs você terá acesso a um arquivo chamado chaotic_data.json esse arquivo contém uma carga de dados que precisamos organizar e extrair informações essenciais para chegarmos ao Boss, muito importante lembrar é que cada etapa deve ser um endpoint.
 
-### Etapa 0001:
+### Etapa 0001: (Sugestão de rota: /api/v2/order-by-status)
 
     - Criar uma função para organizar tudo por status, temos esses na lista [Pending, Paid, Cancelled, Refunded, Expired]
 
-### Etapa 0002:
+### Etapa 0002: (Sugestão de rota: /api/v2/order-total/:status)
 
     - Agora que já temos tudo organizado, vamos então extrair o valor total de cada status (DICA: Nosso order_items é um array podemos ter mais de um item a ser somado)
 
-### Etapa 0003:
+### Etapa 0003: (Sugestão de rota: /api/v2/order-major-values)
 
     - Já organizamos tudo por status e já somamos todos os itens, agora precisamos organizar as informações do MAIOR valor para o MENOR
 
@@ -38,11 +38,13 @@ No repositório challenge-nodejs você terá acesso a um arquivo chamado chaotic
 | :-----: | :-----: | :-----: | :-: |
 | 1458566 | 1358566 | 1258566 | ……  |
 
-#### Etapa 0004:
+#### Etapa 0004: (Sugestão de rota: /api/v2/group-by-country)
 
     - Jedi, por favor, preciso que me ajude a identificar o país que essas ordens são, por favor, agrupe por país.
 
-Etapa Final: Envie o seu projeto para nós, da mesma forma que fez com o CRUD do pokemon.
+#### Etapa Final:
+
+    - Envie o seu projeto para nós, da mesma forma que fez com o CRUD do pokemon.
 
 Jedi, boa sorte nessa missão, cautela e atenção, nosso futuro junto depende do seu foco, atenção e determinação.
 
