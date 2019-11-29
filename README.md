@@ -55,3 +55,5 @@ Jedi, boa sorte nessa missão, cautela e atenção, nosso futuro junto depende d
 - Por fim, adicione como membro do repositório um dos usuários (@dorfo-dev e @luoldrigues) ao seu repositório, quando fizer isto, avise-nos por e-mail vagas@liveonbaas.com, avaliaremos o mais rápido possível e te daremos o feedback.
 
 _Boa sorte!_
+
+*PS: Se você não fez o [challenge-nodejs](https://github.com/LiveOnSolutions/challenge-nodejs) é pré-requisito para o challenge-nodejs-jedi*
