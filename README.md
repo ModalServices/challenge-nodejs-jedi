@@ -16,7 +16,7 @@ A primeira fase você concluiu com 100% de aproveitamento, isso é excelente, ag
 
 ### Objetivo:
 
-No repositório challenge-nodejs você terá acesso a um arquivo chamado chaotic_data.json esse arquivo contém uma carga de dados que precisamos organizar e extrair informações essenciais para chegarmos ao Boss, muito importante lembrar é que cada etapa deve ser um endpoint.
+No repositório tem um arquivo chamado chaotic_data.json esse arquivo contém uma carga de dados que precisamos organizar e extrair informações essenciais para chegarmos ao Boss, muito importante lembrar é que cada etapa deve ser um endpoint.
 
 ### Etapa 0001: (Sugestão de rota: /api/v2/order-by-status)
 
