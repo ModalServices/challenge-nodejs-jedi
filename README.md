@@ -38,11 +38,11 @@ No repositório tem um arquivo chamado chaotic_data.json esse arquivo contém um
 | :-----: | :-----: | :-----: | :-: |
 | 1458566 | 1358566 | 1258566 | ……  |
 
-#### Etapa 0004: (Sugestão de rota: /api/v2/group-by-country)
+### Etapa 0004: (Sugestão de rota: /api/v2/group-by-country)
 
     - Jedi, por favor, preciso que me ajude a identificar o país que essas ordens são, por favor, agrupe por país.
 
-#### Etapa Final:
+### Etapa Final:
 
     - Envie o seu projeto para nós, da mesma forma que fez com o CRUD do pokemon.
 
