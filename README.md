@@ -1,4 +1,4 @@
-# Desafio LiveOnSolutions Node JS - Missão Final
+# Desafio MaaS Node JS - Missão Final
 
 Bem vindo a missão, nobre Jedi.
 
@@ -50,10 +50,12 @@ Jedi, boa sorte nessa missão, cautela e atenção, nosso futuro junto depende d
 
 ### Processo de submissão
 
-- Faça um fork deste projeto em sua conta no [Github](https://github.com/join) (crie um repositório privado).
-- Em seguida, desenvolva o projeto em seu repositório privado.
-- Por fim, adicione como membro do repositório um dos usuários (@dorfo-dev e @luoldrigues) ao seu repositório, quando fizer isto, avise-nos por e-mail vagas@liveonbaas.com, avaliaremos o mais rápido possível e te daremos o feedback.
+- Faça um fork deste projeto em sua conta no [Github](https://github.com/join).
+- Crie um repositório *privado*, com a solução do seu desafio. 
+- Em seguida, desenvolva o projeto. 
+- Adicione como membro do repositório o usuario [@vagas-modalservices](https://github.com/vagas-modalservices).
+- Por fim, envie um email informando que concluiu o desafio p/ vagas@liveonsolutions.com. (coloque no assunto o nome do desafio)
 
 _Boa sorte!_
 
-*PS: Se você não fez o [challenge-nodejs](https://github.com/LiveOnSolutions/challenge-nodejs) é pré-requisito para o challenge-nodejs-jedi*
+*PS: Se você não fez o [challenge-nodejs](https://github.com/ModalServices/challenge-nodejs) é pré-requisito para o challenge-nodejs-jedi*
